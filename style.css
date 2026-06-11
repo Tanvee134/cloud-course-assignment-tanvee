@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial website upload"
+git branch -M main
+git remote add origin https://github.com/Tanvee134/cloud-course-assignment-tanvee.git
+git push -u origin main
